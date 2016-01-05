@@ -1,0 +1,16 @@
+public class AgingCard 
+{
+  private String name;
+  private int fightingVal;
+  private int lifeCost;
+  private String ability; 
+  private boolean isDifficult;
+  public AgingCard(String name, int fightingVal, int lifeCost, String ability, boolean isDifficult)
+  {
+  
+  }
+  public void enableAbility()
+  {
+  
+  }
+}
