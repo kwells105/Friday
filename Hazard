@@ -1,0 +1,15 @@
+public class Hazard 
+{
+   private int freeCards; 
+   private int hazVal;
+   private String name; 
+   private RobinsonCard knowledgeCard;
+   public Hazard(String name, int freeCards, int hazVal, String knowledgeCard)
+   {
+   
+   } 
+   public void enableAbility()
+   {
+   
+   }
+}
